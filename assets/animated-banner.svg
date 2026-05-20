@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#071027" />
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7dd3fc" />
+      <stop offset="50%" stop-color="#60a5fa" />
+      <stop offset="100%" stop-color="#a78bfa" />
+      <animate id="gAnim" attributeName="x1" values="0;1;0" dur="6s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+
+    <style type="text/css"><![CDATA[
+      .title { font: 700 42px 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; fill: url(#textGrad); }
+      .subtitle { font: 400 20px 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; fill: #cbd5e1; }
+      .pulse { animation: pulse 2.6s ease-in-out infinite; transform-origin: 50% 50%; }
+      @keyframes pulse { 0% { transform: translateY(0); } 50% { transform: translateY(-4px); } 100% { transform: translateY(0); } }
+      .marquee { animation: slide 12s linear infinite; }
+      @keyframes slide { 0% { transform: translateX(0); } 100% { transform: translateX(-60%); } }
+    ]]></style>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bgGrad)" />
+
+  <g transform="translate(60,60)" filter="url(#shadow)">
+    <text class="title pulse" x="0" y="40">Computer Science undergraduate at SKIT Jaipur</text>
+    <text class="subtitle" x="0" y="80">Web Developer • C & C++ Programmer • Focused on Real-World Tech Solutions • Video Editor</text>
+  </g>
+
+  <g transform="translate(60,140)">
+    <g class="marquee">
+      <text class="subtitle" x="0" y="30">Web Developer · C & C++ · Real-World Tech Solutions · Video Editor · Open to collaboration ·</text>
+      <text class="subtitle" x="820" y="30">Web Developer · C & C++ · Real-World Tech Solutions · Video Editor · Open to collaboration ·</text>
+    </g>
+  </g>
+
+  <g transform="translate(60,210)">
+    <rect x="0" y="0" width="360" height="36" rx="6" fill="#0b1220" opacity="0.35" />
+    <text class="subtitle" x="16" y="24">SKIT Jaipur</text>
+  </g>
+</svg>

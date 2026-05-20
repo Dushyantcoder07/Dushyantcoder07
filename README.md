@@ -1,12 +1,12 @@
 <!--
-  Dark-themed GitHub Profile README
+  GitHub Profile README
   - Replace `YOUR_NAME`, `YOUR_USERNAME`, and `your.email@example.com`
   - For live GitHub stats, set `YOUR_USERNAME` below
 -->
 
 
 <p align="center">
-  <img src="./assets/dark-banner.svg" alt="dark banner" width="100%" />
+  <img src="./assets/dark-banner.svg" alt="banner" width="100%" />
 </p>
 
 <p align="center">
@@ -16,14 +16,14 @@
 
 <h1 align="center">Hi — I'm a CS Student</h1>
 
-<p align="center">Computer Science student • Dark-theme enthusiast • Building elegant code</p>
+<p align="center">Computer Science student • Building elegant code</p>
 
 ---
 
 ## 🔭 About Me
 
-- I'm a Computer Science student who loves building tools, learning new algorithms, and working with dark themes.
-- I care about readable code, clean UI (dark mode preferred), and efficient systems.
+- I'm a Computer Science student who loves building tools and learning new algorithms.
+- I care about readable code, clean UI, and efficient systems.
 - Currently exploring: systems programming, algorithms, and modern web tooling.
 
 ---
@@ -31,7 +31,7 @@
 ## 💻 Tech & Tools
 
 - **Languages:** Python • C++ • Java • JavaScript/TypeScript
-- **Tools:** Git • Linux • VS Code (dark themes) • Docker
+- **Tools:** Git • Linux • VS Code • Docker
 - **Interests:** Algorithms, OS internals, Web dev, Competitive programming
 
 ---
@@ -68,7 +68,7 @@ Add your projects above. Keep descriptions short and link to the repos.
 
 <!-- A small animated accent (uses an SVG data URL) -->
 <p align="center">
-  <img alt="pulse" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80' height='18'><style>.dot{fill:%23a7f3d0;animation:pulse 1.6s infinite}</style><circle class='dot' cx='10' cy='9' r='6'/><text x='24' y='13' font-family='Inter, Arial' font-size='12' fill='%23cbd5e1'>Dark mode friendly</text><style>@keyframes pulse{0%{opacity:0.3;transform:scale(0.9)}50%{opacity:1;transform:scale(1.05)}100%{opacity:0.3;transform:scale(0.9)}}</style></svg>" />
+  <img alt="pulse" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80' height='18'><style>.dot{fill:%23a7f3d0;animation:pulse 1.6s infinite}</style><circle class='dot' cx='10' cy='9' r='6'/><text x='24' y='13' font-family='Inter, Arial' font-size='12' fill='%23cbd5e1'>Profile</text><style>@keyframes pulse{0%{opacity:0.3;transform:scale(0.9)}50%{opacity:1;transform:scale(1.05)}100%{opacity:0.3;transform:scale(0.9)}}</style></svg>" />
 </p>
 
 ---
@@ -77,13 +77,6 @@ Add your projects above. Keep descriptions short and link to the repos.
 
 - GitHub: https://github.com/Dushyantcoder07
 
----
-
-## 🎧 Theme
-
-I code best in dark mode. Favorite theme: Dracula / Night Owl.
-
----
 
 If you'd like, I can:
 
