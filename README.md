@@ -63,7 +63,6 @@ Add your projects above. Keep descriptions short and link to the repos.
 <!-- Action buttons (badges act as clickable buttons) -->
 <p align="center">
   <a href="https://github.com/Dushyantcoder07?tab=repositories"><img alt="View projects" src="https://img.shields.io/badge/📁-Projects-black?style=for-the-badge&logo=github&color=2b2b2b&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img alt="Contact" src="https://img.shields.io/badge/✉️-Contact-me-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Dushyantcoder07?tab=followers"><img alt="Followers" src="https://img.shields.io/badge/👥-Follow-blue?style=for-the-badge&logo=github&logoColor=white&color=0b1220"/></a>
 </p>
 
@@ -74,9 +73,8 @@ Add your projects above. Keep descriptions short and link to the repos.
 
 ---
 
-## ✉️ Contact
+## Contact
 
-- Email: your.email@example.com (replace with yours)
 - GitHub: https://github.com/Dushyantcoder07
 
 ---
