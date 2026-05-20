@@ -6,13 +6,12 @@
 
 
 <p align="center">
-  <img src="./assets/dark-banner-polished.svg" alt="dark banner" width="100%" />
+  <img src="./assets/dark-banner.svg" alt="dark banner" width="100%" />
 </p>
 
 <p align="center">
   <!-- GitHub avatar: replace YOUR_USERNAME with your GitHub username or use a local path like ./assets/profile.png -->
-  <!-- animated avatar SVG (hover to scale) -->
-  <img src="./assets/avatar-hover.svg" alt="profile" width="120" height="120" style="border-radius:50%;" />
+  <img src="https://github.com/Dushyantcoder07.png?size=200" alt="profile" width="120" height="120" style="border-radius:50%;border:2px solid rgba(255,255,255,0.06);box-shadow:0 6px 18px rgba(2,6,23,0.6)" />
 </p>
 
 <h1 align="center">Hi — I'm a CS Student</h1>
