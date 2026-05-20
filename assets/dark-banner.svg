@@ -1,0 +1,56 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f1724">
+        <animate attributeName="stop-color" values="#0f1724;#071126;#0b1220;#0f1724" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#071126">
+        <animate attributeName="stop-color" values="#071126;#0b1220;#0f1724;#071126" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="grain">
+      <feTurbulence baseFrequency="0.8" numOctaves="1" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feBlend mode="multiply" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#g)" />
+
+  <!-- subtle moving diagonal lines -->
+  <g opacity="0.08" stroke="#ffffff" stroke-width="1" stroke-linecap="round">
+    <path d="M-200 60 L1400 60" stroke-opacity="0.03">
+      <animate attributeName="transform" type="translate" from="0 0" to="0 -30" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-200 120 L1400 120" stroke-opacity="0.03">
+      <animate attributeName="transform" type="translate" from="0 0" to="0 -60" dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- stars -->
+  <g fill="#ffffff" opacity="0.9">
+    <circle cx="80" cy="40" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="230" cy="70" r="1.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="420" cy="30" r="1.4"><animate attributeName="opacity" values="0.25;1;0.25" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="50" r="1.1"><animate attributeName="opacity" values="0.2;1;0.2" dur="4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="90" r="1.7"><animate attributeName="opacity" values="0.15;1;0.15" dur="5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- main title -->
+  <g font-family="Inter, Roboto, system-ui, -apple-system, 'Segoe UI', Arial" fill="#e6eef8">
+    <text x="60" y="130" font-size="44" font-weight="700">Hi — I'm a CS Student</text>
+    <text x="60" y="170" font-size="18" fill="#98a8bf">Dark-mode dev • Algorithms • Clean UX</text>
+  </g>
+
+  <!-- animated hex icon on the right -->
+  <g transform="translate(980,60)">
+    <rect x="0" y="0" width="140" height="120" rx="14" fill="#0b1220" opacity="0.6" />
+    <g transform="translate(70,60)" style="transform-origin:70px 60px;">
+      <polygon points="-28,-16 28,-16 40,0 28,16 -28,16 -40,0" fill="#14b8a6" opacity="0.95">
+        <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+      </polygon>
+    </g>
+    <text x="10" y="105" font-size="11" fill="#98a8bf">Dark Mode Vibes</text>
+  </g>
+
+</svg>
