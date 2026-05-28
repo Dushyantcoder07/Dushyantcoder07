@@ -7,12 +7,12 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,100:111827&height=160&section=header&text=Dushyant Singh Sidodiya&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Web%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="./assets/github-header-banner.png" alt="Animated developer banner" width="100%" />
 </p>
 
-<!-- <p align="center">
-  <img src="./assets/animated-banner.svg" alt="Animated developer banner" width="100%" />
-</p> -->
+<h1 align="center">Dushyant Singh Sidodiya</h1>
+
+<p align="center">Web Developer | Open Source Contributor | UI/UX Enthusiast</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=980&lines=Open+Source+Contributor;WEB+DEVELOPER;UI%2FUX+Enthusiast;Community+Contributor;Problem+Solver" alt="Typing animation" />
@@ -27,6 +27,7 @@
 <p align="center">
   <a href="https://github.com/Dushyantcoder07"><img src="https://img.shields.io/badge/GitHub-Dushyantcoder07-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub badge" /></a>
   <a href="https://www.linkedin.com/in/dushyantsinghsisodiya/"><img src="https://img.shields.io/badge/LinkedIn-Dushyant Singh Sisodiya-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn badge" /></a>
+</p>
 
 ---
 
