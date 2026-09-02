@@ -12,11 +12,11 @@
 
 <h1 align="center">Dushyant Singh Sidodiya</h1>
 
-<p align="center">Web Developer | Open Source Contributor | UI/UX Enthusiast</p>
+<p align="center">Web Developer </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=980&lines=Open+Source+Contributor;WEB+DEVELOPER;UI%2FUX+Enthusiast;Community+Contributor;Problem+Solver" alt="Typing animation" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Craft-Clean%20Interfaces-0D1117?style=for-the-badge&logo=webcomponents.org&logoColor=00E5FF" alt="Frontend craft badge" />
@@ -35,12 +35,6 @@
 
 I build modern, responsive interfaces with a strong focus on clarity, polish, and usability. My work lives at the intersection of open source, frontend development, and design-aware problem solving. I like contributing to community projects, improving UI details, and learning fast enough to keep up with modern web development.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Open source contributor" />
-  <img src="https://img.shields.io/badge/Responsive%20UI-First%20Mindset-0D1117?style=flat-square&logo=css3&logoColor=1572B6" alt="Responsive UI" />
-  <img src="https://img.shields.io/badge/Learning%20Mindset-Growth%20Mode-0D1117?style=flat-square&logo=bookstack&logoColor=FFFFFF" alt="Learning mindset" />
-  <img src="https://img.shields.io/badge/Community-Centered-0D1117?style=flat-square&logo=githubsponsors&logoColor=EA4AAA" alt="Community centered" />
-</p>
 
 ---
 
