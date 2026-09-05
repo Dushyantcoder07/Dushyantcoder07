@@ -1,179 +1,136 @@
+<!--
+  GitHub profile README for Dushyantcoder07
+  - This file only uses static badge/image services (shields.io, capsule-render,
+    github-readme-stats, skillicons) because GitHub strips <script> and <style>
+    tags from profile READMEs — no live JS dashboard can run here.
+  - Replace the LIVE_DASHBOARD_URL placeholder below once you've hosted the
+    index.html dashboard (GitHub Pages / Vercel / Netlify).
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0D1117,100:0E7490&text=Dushyant%20Singh%20Sisodiya&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn" width="100%" alt="Dushyant Singh Sisodiya Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A1420,50:101E30,100:0E7490&text=Dushyant%20Singh%20Sisodiya&fontColor=E7ECF2&fontSize=40&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descColor=8FA3BC&animation=fadeIn" width="100%" alt="Dushyant Singh Sisodiya header"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Building+modern+full-stack+applications;Solving+real-world+problems+with+technology;Java+%7C+Spring+Boot+%7C+Angular+%7C+React;Cloud+%26+Data+Engineering+Enthusiast" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=4FB89B&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Full-Stack+Developer+%7C+CSE+Undergraduate+%40+SKIT+Jaipur;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+React.js+%E2%80%A2+Node.js;Exploring+Cloud%2C+Data+Engineering+%26+System+Design;Turning+ideas+into+scalable+software" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Dushyantcoder07">
-  <img src="https://img.shields.io/badge/GitHub-Dushyantcoder07-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Dushyantcoder07-0A1420?style=for-the-badge&logo=github&logoColor=E7ECF2" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/dushyantsinghsisodiya/">
-  <img src="https://img.shields.io/badge/LinkedIn-Dushyant%20Singh%20Sisodiya-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Dushyant%20Singh%20Sisodiya-0A1420?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=Dushyantcoder07&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<img src="https://komarev.com/ghpvc/?username=Dushyantcoder07&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- Replace this with your hosted dashboard link once it's live -->
+<a href="https://dushyantcoder07.github.io/LIVE_DASHBOARD_URL">
+  <img src="https://img.shields.io/badge/Live%20Dashboard-View%20Now-0A1420?style=for-the-badge&logo=vercel&logoColor=4FB89B" alt="Live dashboard"/>
+</a>
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
+## About Me
 
-I'm **Dushyant Singh Sisodiya**, a **Computer Science Undergraduate at SKIT Jaipur** and a **Full-Stack Developer** passionate about building scalable, user-focused web applications and solving real-world problems through technology.
+- 🎓 **Computer Science (CSE) undergraduate** at SKIT, Jaipur — CGPA 8.4
+- 💻 **Full-stack developer** who enjoys building scalable, user-focused web applications
+- ☁️ Familiar with **Azure** cloud tools — Azure Data Factory, Databricks, ADLS Gen2, Power BI — through hands-on academic projects
+- 🌱 Currently deepening my skills in **Spring Boot, Angular, System Design & Cloud Computing**
+- 📈 I learn by building — writing clean, maintainable code and collaborating with other developers to ship things people actually use
 
-I enjoy learning by building practical projects, exploring modern technologies, and creating clean, responsive applications with a strong focus on usability and maintainable code.
+<br/>
 
----
+## Tech Stack
 
-## 💻 Tech Stack
-
-### 🚀 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript&theme=dark" alt="Programming Languages"/>
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css&theme=dark" alt="Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/>
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,vite,tailwind,bootstrap&theme=dark" alt="Frontend"/>
 </p>
 
----
-
-### 🎨 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,bootstrap,vite&theme=dark" alt="Frontend Technologies"/>
+**Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,mongodb,mysql,sqlite&theme=dark" alt="Backend and databases"/>
 </p>
 
----
-
-### ⚙️ Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" alt="Backend Technologies"/>
+**Cloud & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode&theme=dark" alt="Cloud and tools"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST APIs"/>
+**Data Engineering & Analytics**
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Spark-0A1420?style=for-the-badge&logo=apachespark&logoColor=E25A1C" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-0A1420?style=for-the-badge&logo=apachekafka&logoColor=E7ECF2" alt="Apache Kafka"/>
+  <img src="https://img.shields.io/badge/Databricks-0A1420?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0A1420?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure Data Factory"/>
+  <img src="https://img.shields.io/badge/Power%20BI-0A1420?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/>
 </p>
 
----
+<br/>
 
-### 🗄️ Databases
+## GitHub Dashboard
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" alt="Databases"/>
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dushyantcoder07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A1420&title_color=4FB89B&icon_color=E8A23D&text_color=CDD6E2&ring_color=4FB89B" alt="Dushyant's GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dushyantcoder07&layout=compact&langs_count=8&hide_border=true&bg_color=0A1420&title_color=4FB89B&text_color=CDD6E2" alt="Top languages"/>
 
-### ☁️ Cloud & Data Engineering
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker&theme=dark" alt="Cloud Technologies"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=Dushyantcoder07&theme=transparent&hide_border=true&background=0A1420&ring=4FB89B&fire=E8A23D&currStreakLabel=4FB89B&sideLabels=CDD6E2&dates=7E8FA6&currStreakNum=E7ECF2&sideNums=E7ECF2" alt="GitHub streak"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure Data Factory"/>
-  <img src="https://img.shields.io/badge/Azure%20Databricks-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="Azure Databricks"/>
-  <img src="https://img.shields.io/badge/ADLS%20Gen2-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure Data Lake Storage Gen2"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C" alt="Apache Spark"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF" alt="Apache Kafka"/>
-  <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/>
-</p>
+<br/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dushyantcoder07&bg_color=0A1420&color=CDD6E2&line=4FB89B&point=E7ECF2&area=true&area_color=E8A23D&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity"/>
 
-### 🛠️ Tools
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="Development Tools"/>
-</p>
+<br/>
 
----
-
-## 🚀 What I'm Currently Working On
+## Currently Building & Learning
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Full-Stack Development
-
-- Building responsive web applications
-- Developing REST APIs
-- Working with Spring Boot
-- Exploring Angular and React
-- Designing scalable backend architectures
-- Working with SQL and NoSQL databases
+**💻 Building**
+- Full-stack apps with React / Angular + Node.js / Spring Boot
+- Responsive interfaces with Tailwind CSS
+- REST APIs and database-backed applications
 
 </td>
-
 <td width="50%" valign="top">
 
-### ☁️ Cloud & Data
-
-- Azure Data Factory
-- Azure Databricks
-- Azure Data Lake Storage Gen2
-- Apache Spark
-- Data processing pipelines
-- Power BI analytics
+**🌱 Learning**
+- Spring Boot & Angular in depth
+- System design & cloud computing
+- Azure data engineering (ADF, Databricks, Power BI)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🌱 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/>
-
-<img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular"/>
-
-<img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=22D3EE" alt="System Design"/>
-
-<img src="https://img.shields.io/badge/Cloud%20Computing-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Cloud Computing"/>
-
-<img src="https://img.shields.io/badge/Software%20Engineering-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Software Engineering"/>
-
-</p>
-
----
-
-## 🎯 Areas of Interest
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Full--Stack%20Development-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full Stack Development"/>
-
-<img src="https://img.shields.io/badge/Backend%20Engineering-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Backend Engineering"/>
-
-<img src="https://img.shields.io/badge/Cloud%20Technologies-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Cloud Technologies"/>
-
-<img src="https://img.shields.io/badge/UI%2FUX-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="UI UX"/>
-
-<img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=22D3EE" alt="System Design"/>
-
-</p>
-
----
-
-# 📊 GitHub Dashboard
+## Connect With Me
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Dushyantcoder07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&ring_color=0E7490" alt="Dushyant GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dushyantcoder07&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Dushyant Top Languages"/>
+<a href="https://github.com/Dushyantcoder07">
+  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-0A1420?style=for-the-badge&logo=github&logoColor=E7ECF2" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/dushyantsinghsisodiya/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A1420?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
 
 </div>
 
@@ -181,77 +138,8 @@ I enjoy learning by building practical projects, exploring modern technologies, 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Dushyantcoder07&theme=transparent&hide_border=true&background=0D1117&ring=22D3EE&fire=0E7490&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
+Build • Learn • Improve • Repeat
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0E7490,50:101E30,100:0A1420" width="100%" alt="footer"/>
 
 </div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dushyantcoder07&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&area_color=0E7490&hide_border=true&custom_title=Dushyant's%20Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
-
-</div>
-
----
-
-## 💡 What I Believe In
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🧠 Learn
-
-Continuously explore new technologies and strengthen fundamentals.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🛠️ Build
-
-Turn ideas into practical applications that solve real problems.
-
-</td>
-
-<td align="center" width="33%">
-
-### 📈 Improve
-
-Write cleaner code, improve design, and learn from every project.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 Featured Technologies
-
-<div align="center">
-
-```text
-                    FULL-STACK
-                        │
-          ┌─────────────┴─────────────┐
-          │                           │
-       FRONTEND                    BACKEND
-          │                           │
-   Angular • React              Spring Boot
-   JavaScript                   Node.js
-   HTML • CSS                   REST APIs
-          │                           │
-          └─────────────┬─────────────┘
-                        │
-                    DATABASES
-                        │
-              MySQL • MongoDB
-                        │
-                        ▼
-                 CLOUD & DATA
-                        │
-       Azure • ADF • Databricks
-       ADLS Gen2 • Spark • Power BI
