@@ -21,7 +21,7 @@
 👨‍💻 About Me
 
 name: Dushyant Singh Sisodiya
-role: Computer Science (AI) Student | Full-Stack Developer
+role: Computer Science Student | Full-Stack Developer
 college: SKIT, Jaipur
 cgpa: 8.4
 
