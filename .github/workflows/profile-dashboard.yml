@@ -1,0 +1,55 @@
+name: Generate Developer Dashboard
+
+on:
+schedule:
+# Runs automatically every day at 00:15 UTC
+- cron: "15 0 * * *"
+
+workflow_dispatch:
+
+push:
+branches:
+- main
+paths:
+- "scripts/generate_dashboard.py"
+- ".github/workflows/profile-dashboard.yml"
+
+permissions:
+contents: write
+
+jobs:
+generate-dashboard:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Checkout profile repository
+    uses: actions/checkout@v4
+
+  - name: Setup Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: "3.12"
+
+  - name: Create dashboard
+    env:
+      GITHUB_API_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+      GITHUB_USERNAME: Dushyantcoder07
+    run: |
+      mkdir -p assets
+      python scripts/generate_dashboard.py
+
+  - name: Commit updated dashboard
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      git add assets/github-dashboard.svg
+
+      if git diff --cached --quiet; then
+        echo "Dashboard already up to date."
+        exit 0
+      fi
+
+      git commit -m "chore: update developer activity dashboard"
+      git push
