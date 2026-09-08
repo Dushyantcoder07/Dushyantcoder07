@@ -154,12 +154,12 @@ File is created by .github/workflows/profile-dashboard.yml
 
 <div align="center">
 
-| Development |   Cloud    |   Data    |  Engineering  |
+| Development |    Cloud   |    Data   |  Engineering  |
 | :---------: | :--------: | :-------: | :-----------: |
-| Full-Stack  |   Azure    |   Spark   | System Design |
+|  Full-Stack |    Azure   |   Spark   | System Design |
 | Spring Boot | Databricks |   Kafka   |   REST APIs   |
-|   Angular   |    ADF     | Power BI  |  Clean Code   |
-|  React.js   |   Docker   | Databases |  Scalability  |
+|   Angular   |     ADF    |  Power BI |   Clean Code  |
+|   React.js  |   Docker   | Databases |  Scalability  |
 
 </div>
 
@@ -194,8 +194,6 @@ File is created by .github/workflows/profile-dashboard.yml
 </div>
 
 <br/>
-
-
 
 <div align="center">
 
